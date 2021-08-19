@@ -54,7 +54,7 @@
 
   >Some of the python packages required to do the project are listed here and for more check the requiremnt.txt file:
   ```
-pip install pdal
+pip install PDAL
 
 pip install geopandas
 
