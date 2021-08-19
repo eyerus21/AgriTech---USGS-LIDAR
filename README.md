@@ -77,10 +77,8 @@ pip install laspy
 **Skills:**
 
 - Working with satellite imagery as well as geographical data files
-
 - Exposure to building API that interacts with satellite imagery
 Code packaging and modularity
-
 - Building data pipelines and orchestrations workflows
 
 **Knowledge:**
@@ -98,7 +96,7 @@ Code packaging and modularity
 - https://www.earthdatascience.org/courses/use-data-open-source-python/intro-vector-data-python/spatial-data-vector-shapefiles/intro-to-coordinate-reference-systems-python/
 - https://towardsdatascience.com/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c
 - https://towardsdatascience.com/farm-design-with-qgis-3fb3ea75bc91
-- 
+
 
 
 
