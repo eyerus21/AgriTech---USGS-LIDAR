@@ -63,30 +63,42 @@ pip install rasterio
 pip install laspy
 
 ```
+---
+
+# <a name='use'></a>
+## How to Use
   
+---
 
+<a name='hint'></a>
 
+## Skills and knowledge
 
+**Skills:**
 
-Data Fetching and Loading
+- Working with satellite imagery as well as geographical data files
 
-Terrain Visualization
+- Exposure to building API that interacts with satellite imagery
+Code packaging and modularity
 
-Data Transformation 
+- Building data pipelines and orchestrations workflows
+
+**Knowledge:**
+- Satellite and geographical Image processing 
+- Functional and Modular Coding
+- API access to Big Data
  
 ---
 
 
-Skills:
-Working with satellite imagery as well as geographical data files
+# <a name='refs'></a>References
+- https://www.earthdatascience.org/courses/use-data-open-source-python/data-stories/what-is-lidar-data/explore-lidar-point-clouds-plasio/
+- https://pdal.io/tutorial/iowa-entwine.html
+- https://paulojraposo.github.io/pages/PDAL_tutorial.html
+- https://www.earthdatascience.org/courses/use-data-open-source-python/intro-vector-data-python/spatial-data-vector-shapefiles/intro-to-coordinate-reference-systems-python/
+- https://towardsdatascience.com/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c
+- https://towardsdatascience.com/farm-design-with-qgis-3fb3ea75bc91
+- 
 
-Exposure to building API that interacts with satellite imagery
-Code packaging and modularity
-
-Building data pipelines and orchestrations workflows
 
 
-Knowledge:
-Satellite and geographical Image processing 
-Functional and Modular Coding
-API access to Big Data
