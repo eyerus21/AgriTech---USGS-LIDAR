@@ -50,12 +50,20 @@
   ---
 
   # <a name='install'></a> 
-
 ## Installation requirements
 
   >Some of the python packages required to do the project are listed here and for more check the requiremnt.txt file:
   ```
 pip install pdal
+
+
+pip install geopandas
+
+
+pip install rasterio
+
+
+pip install laspy
 
 ```
   
