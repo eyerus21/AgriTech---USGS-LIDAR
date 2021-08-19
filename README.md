@@ -56,12 +56,9 @@
   ```
 pip install pdal
 
-
 pip install geopandas
 
-
 pip install rasterio
-
 
 pip install laspy
 
