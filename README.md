@@ -8,9 +8,10 @@
 ## Table of contents
 
 * [Description](#description)
-* [Current Progress](#progress)
-* [How to Install](#install)
+* [Project Progress](#progress)
+* [Installation requirements](#install)
 * [How to Use](#use)
+* [Skills and knowledge](#hint)
 * [References](#refs)
 * [License](#license)
 
@@ -27,6 +28,39 @@
 
 ---
 
+# <a name='progress'></a>
+
+## Project Progress
+
+* Main Tasks
+  - [x] Enable Elevation Data Fetching
+  - [x] Enable Data Loading from saved tif and las/laz files
+  - [ ] Enable Terrian Visualization using retrieved or loaded LiDAR cloud points
+  - [ ] Enable Cloud Point Standardizing/Sub-Sampling
+  - [ ] Enable data augmentation to retrieved geopandas data-frame
+  - [ ] Composing a QuickStart Guide Notebook
+
+* Additional Tasks
+  - [ ] Enable Diagrammatic way of comparing original terrain and subsampled terrain
+  - [ ] Enable Soil-Data Fetching
+  - [ ] Enable Climate-Data Fetching
+  - [ ] Enable interaction with Sentinel public API
+  - [ ] Enable users to download satellite imagery using Sentinels API
+
+  ---
+
+  # <a name='install'></a> 
+  ## Installation requirements
+
+  >Some of the python packages required to do the project are listed here and for more check the requiremnt.txt file:
+  ```
+pip install pdal
+pip install geopandas
+pip install rasterio
+pip install laspy
+
+```
+  
 
 
 
