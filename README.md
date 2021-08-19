@@ -10,7 +10,6 @@
 * [Description](#description)
 * [Project Progress](#progress)
 * [Installation requirements](#install)
-* [How to Use](#use)
 * [Skills and knowledge](#hint)
 * [References](#refs)
 * [License](#license)
@@ -65,10 +64,6 @@ pip install laspy
 ```
 ---
 
-# <a name='use'></a>
-## How to Use
-  
----
 
 <a name='hint'></a>
 
