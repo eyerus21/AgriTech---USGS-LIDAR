@@ -1,0 +1,6 @@
+pip install PDAL
+pip install geopandas
+pip install rasterio
+pip install laspy
+pip install gdal
+pip install earthpy

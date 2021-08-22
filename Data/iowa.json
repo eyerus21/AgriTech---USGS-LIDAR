@@ -30,6 +30,12 @@
             "type": "filters.range",
             "tag": "classify"
         },
+        { 
+            "filename" : "filename.csv",
+            "type" : "writers.text",
+            "format": "csv"
+        }
+        ,
         {
             "filename": "iowa.laz",
             "inputs": [ "classify" ],
