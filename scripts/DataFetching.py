@@ -38,17 +38,20 @@ class Fetch():
         self.epsg = epsg
         self.filename= '../Data/iowa.tif'
         
+    #open and load a raster file    
     def get_getitem__(self):
         ds= gdal.Open(self.filename)
         return ds
     
+    #raster info
     def raster info(self):
         Ds=get_getitem__()
         Width= Ds.RasterXSize 
         Height= Ds.RasterYSize 
         return Width,Height     
     
-     def get_pipeline_arrays(self):
+    # getting an from raster data
+    def get_pipeline_arrays(self):
          Ds=get_getitem__()
          rastArr= Ds.GetRasterBand(1).ReadAsArray()
          return rastArr
